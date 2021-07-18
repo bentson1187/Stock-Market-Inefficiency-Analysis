@@ -104,8 +104,9 @@ Describe the structure of your repository and its contents, for example:
 
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
-├── Analysis Notebook.ipynb       <- Narrative documentation of the analysis in Jupyter notebook
+├── Analysis Notebook.ipynb             <- Narrative documentation of the analysis in Jupyter notebook
+├── Data Collection.ipynb               <- Notebook with API calls and .csv creation
 ├── Stakeholder Presentation.ppt        <- Project presentation
-├── Data        <- Data used for analysis
+├── Data                                <- Data used for analysis
 └── Images                              <- Both sourced externally and generated from code
 ```
