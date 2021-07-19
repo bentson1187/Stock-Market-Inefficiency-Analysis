@@ -94,7 +94,7 @@ For the future, it is recommended to create a live data pipeline that can be upd
 
 ## **For More Information**
 
-Please review our full analysis in the [Jupyter Notebook](https://github.com/bentson1187/Stock-Market-Inefficiency-Analysis/blob/9f0b97058ed28d6b5c27332730886f05fb60e1d0/Analysis%20Notebook.ipynb),  [Presentation](https://github.com/bentson1187/Stock-Market-Inefficiency-Analysis/blob/8e66da0f9ff55c1929d04ee97af80b6d65c8ae0a/Stakeholder%20Presentation.pdf) and the [Tableau Dashboard](https://public.tableau.com/app/profile/brian8863/viz/CapstoneDashboard_16252496264850/ResearchDashboard?publish=yes). 
+Please review our full analysis in the [Jupyter Notebook](https://github.com/bentson1187/Stock-Market-Inefficiency-Analysis/blob/9f0b97058ed28d6b5c27332730886f05fb60e1d0/Analysis%20Notebook.ipynb),  [Presentation](https://github.com/bentson1187/Stock-Market-Inefficiency-Analysis/blob/8e66da0f9ff55c1929d04ee97af80b6d65c8ae0a/Stakeholder%20Presentation.pdf) and the [Tableau Dashboard](https://public.tableau.com/app/profile/brian8863/viz/CapstoneDashboard_16252496264850/HoldingsDashboard?publish=yes). 
 
 For any additional questions, please contact **Brian Bentson, bentson.brian@gmail.com**
 
