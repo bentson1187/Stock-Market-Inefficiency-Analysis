@@ -53,7 +53,7 @@ To find which companies show promise for investment, companies will be analyzed 
 4. Hold
 5. Sell
 
-<img src='Images/3d Scatter Plot.png' width=100%>
+<img src='Images/2d Scatter Plot.png' width=100%>
 
 A machine learning classification model will then be trained on these new labels to ultimately predict which companies should be evaluated further for investing and which company features played a significant role in those predictions. 
 
